@@ -1,5 +1,3 @@
-Javascript:
-(function() {
 function info() {
 	this.informasjon = false;
 	this.ferdig = false;
@@ -249,4 +247,3 @@ myInfo.openPage();
 myInfo.melding();
 myInfo.logg();
 	
-})()

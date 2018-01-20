@@ -1,2 +1,1 @@
-alert("hei");
-void 0
+alert("hello");
